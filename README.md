@@ -1,3 +1,4 @@
-# Portfolio QA
-Учебный проект тестирования мобильного приложения "Где мои дети?"
-Приложение «Где мои дети» — определяет местоположение мобильного устройства ребенка путем триангуляции положения телефона (каждые 15 минут), при помощи встроенного в смартфон GPS-датчика и систем интернет-коммуникации – WiFi и мобильного интернета. Сервис показывает перемещение и место расположения мобильного телефона ребенка, который использует приложение «Pingo: Чат с родителями».
+## Portfolio QA
+- These are examples of homework [LOOK](https://svetlanasemirenko.github.io/Portfolio-QA/)
+- The tasks were completed as part of the training courses "SkillFactory"
+- Specialization - Software QA Tester
